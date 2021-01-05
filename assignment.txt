@@ -1,3 +1,18 @@
 Hello world !
 Arash Arouni
 991113002
+All assignments must be done individually unless stated 
+otherwise.You are encouraged to discuss with your classmates 
+about the given assignments, but these discussions related
+to a particular solution to a specific problem (either in
+actuall code or in the pseudocode)will not be tolerated.
+In short, turning in someonr else's work, in whole or in part,
+as your own will be considerednas a violation of
+academic integrrity. Please note that the former condition 
+also holds for the material found on the web as everything 
+on the web has been written by someone else.
+I acknowledge that i have fully read and understood the 
+contents of the course;I will not share my work (not even a part of it)
+on telegram ;I understand that if i have any questions or
+concerns about thr course mechanics, it is my responsibility
+to discuss them with the instructors whitin their office hours.
